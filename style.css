@@ -1,0 +1,20 @@
+body{
+    background-color: lightcyan;
+    color: black;
+}
+
+.heading{
+    width:80%;
+    font-size:22px;
+}
+
+#camera{
+    border:5px dotted yellow;
+    width:350px;
+    height:300px;
+}
+
+.objectname, #result_object_name, #reslut_object_accuracy
+{
+color: pink;
+}
